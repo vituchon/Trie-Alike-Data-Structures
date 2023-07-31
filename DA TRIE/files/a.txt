@@ -1,0 +1,11 @@
+REDISTRIBUTABLE CODE - Limited Use:
+msjet35.dll
+msjint35.dll
+msjter35.dll
+msrd2x35.dll
+msrepl35.dll
+expsrv.dll
+vbajet32.dll
+msexch35.dll
+REDISTRIBUTABLE CODE -  Extended Use:
+REDISTRIBUTABLE CODE -  Standard:

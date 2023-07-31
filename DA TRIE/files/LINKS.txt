@@ -1,0 +1,39 @@
+Information and Organization;
+
+Information Processing & Management 
+
+Information Sciences
+
+Neurocomputing
+
+www.biblioteca.mincyt.gov.ar
+
+Information Sciences
+Reducing coding redundancy in LZWnext term
+2006
+http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V0C-4FSCJST-4&_user=10&_coverDate=05%2F22%2F2006&_alid=913674226&_rdoc=2&_fmt=high&_orig=search&_cdi=5643&_sort=d&_docanchor=&view=c&_ct=8&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=caa4fc413e13e0e23a2ae70eeadc73ef
+ 
+Information and Computation (es otra revista que no figura en el articulo pero el tema tranquilamente podria ser admitido)
+Fast gapped variants for Lempel–Ziv–Welch compressionstar
+2007
+http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WGK-4N7S53V-1&_user=10&_coverDate=07%2F31%2F2007&_alid=913676021&_rdoc=1&_fmt=high&_orig=mlkt&_cdi=6825&_sort=v&_st=17&_docanchor=&view=c&_ct=834&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=b6cd7b71d3619a340d30c07c05a1b3a0
+ 
+Information Processing & Management
+A compact static double-array keeping character codes
+2006
+http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VC8-4K8SC9V-1&_user=10&_coverDate=01%2F31%2F2007&_alid=913676021&_rdoc=5&_fmt=high&_orig=mlkt&_cdi=5948&_sort=v&_st=17&_docanchor=&view=c&_ct=834&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=054075c3ceff274da194f7b088236876
+ 
+Information Sciences
+A fast and efficient nearly-optimal adaptive Fano coding scheme 
+2006
+http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V0C-4GV9B5K-4&_user=10&_coverDate=06%2F22%2F2006&_alid=913674226&_rdoc=1&_fmt=high&_orig=search&_cdi=5643&_sort=d&_docanchor=&view=c&_ct=8&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=f4643589dfe0b64cd88d434055d4cbeb
+ 
+Information Processing & Management
+Percent perfect performance (PPP) 
+2007
+http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VC8-4MC0TP0-1&_user=10&_coverDate=07%2F31%2F2007&_alid=910939514&_rdoc=8&_fmt=high&_orig=search&_cdi=5948&_sort=d&_docanchor=&view=c&_ct=98&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=399ffa7b14c81588c53521a08e636112
+ 
+Information Processing & Management
+Adapting the Knuth–Morris–Pratt algorithm for pattern matching in Huffman encoded texts 
+2006
+http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VC8-4G4N0GF-1&_user=10&_coverDate=03%2F31%2F2006&_alid=910942153&_rdoc=1&_fmt=high&_orig=search&_cdi=5948&_sort=d&_docanchor=&view=c&_ct=2&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=82b9a3232c3d2e6c977061d01f1e49e0

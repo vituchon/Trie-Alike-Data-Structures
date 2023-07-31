@@ -1,0 +1,33 @@
+OPTIMIZED TRIE:
+
+401540 palabras procesadas en 87320 lineas.
+Insertadas: 401540 borradas: 0 encontradas 0
+FIN INSERSIÓN. TIEMPO: 364156 milisegundos. (6 Minutos Aprox).
+Espacios:
+NORMAL: 3075614 OPTIMO: 2041541
+401540 palabras procesadas en 87320 lineas.
+Insertadas: 0 borradas: 401540 encontradas 0
+String contenidos: 0
+
+REDUCED TRIE NORMAL:
+401540 palabras procesadas en 87320 lineas.
+Insertadas: 10970 borradas: 0 encontradas 0
+FIN INSERSIÓN. TIEMPO: 31391 milisegundos.
+Espacios:
+NORMAL: 3143777 OPTIMO: 2109917
+401540 palabras procesadas en 87320 lineas.
+Insertadas: 0 borradas: 10970 encontradas 0
+String contenidos: 
+
+OPTIMIEZ TRIE LAZY:
+401540 palabras procesadas en 87320 lineas.
+Insertadas: 401540 borradas: 0 encontradas 0
+FIN INSERSIÓN. TIEMPO: 31171 milisegundos.
+Espacios:
+NORMAL: 3147136 OPTIMO: 2113276
+<<APLICANDO TRIM>>
+Espacios:
+NORMAL: 3047030 OPTIMO: 2013170
+401540 palabras procesadas en 87320 lineas.
+Insertadas: 0 borradas: 401540 encontradas 0
+String contenidos: 0
